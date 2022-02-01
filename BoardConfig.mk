@@ -204,7 +204,7 @@ RECOVERY_BINARY_SOURCE_FILES += $(TARGET_OUT_EXECUTABLES)/strace
 CUSTOM_TWRP_DEVICE_VERSION := 0
 
 # version prefix is optional - the default value is "LOCAL" if nothing is set in device tree
-CUSTOM_TWRP_VERSION_PREFIX := RUI2
+CUSTOM_TWRP_VERSION_PREFIX := RUI3
 
 include device/common/version-info/custom_twrp_version.mk
 
