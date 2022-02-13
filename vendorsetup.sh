@@ -20,7 +20,7 @@
 
 export ALLOW_MISSING_DEPENDENCIES=true
 
-FDEVICE="RMX3360"
+FDEVICE="RMX2202"
 #set -o xtrace
 
 fox_get_target_device() {

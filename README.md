@@ -1,3 +1,3 @@
-# Realme GT Master Edition
-TWRP device tree for Realme GT Master Edition
-a.k.a. RMX3360
+# Realme GT 5G
+TWRP device tree for Realme GT
+a.k.a. RMX2202
